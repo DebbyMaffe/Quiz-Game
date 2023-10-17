@@ -1,0 +1,6 @@
+What is a Process?
+2
+An instance of the execution of a program and its data
+An instance of the execution of a program
+A program to guide the OS to the usage of a hardware component
+A software that communicates with the hardware

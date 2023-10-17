@@ -1,0 +1,6 @@
+The access time of a Magnetic Disk is given by:
+1
+Seek time + Rotational time + Transfer time
+Rotational time + Transfer time + Reading time
+Fetch time + Rotational time + Transfer time + Reading time
+None of the above

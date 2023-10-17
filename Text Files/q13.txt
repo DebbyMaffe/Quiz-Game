@@ -1,0 +1,6 @@
+Through which NumPy function you can solve a quadratic polynomial?
+3
+root()
+quad()
+poly1d()
+poly()

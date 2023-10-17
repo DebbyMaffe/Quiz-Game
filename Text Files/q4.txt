@@ -1,0 +1,6 @@
+The third column of ASCII table represents:
+3
+The actual bits combination corresponding to a character of the alphabet
+The first column in hexadecimal base system
+The first column in eight base system
+The character of the alphabet

@@ -1,0 +1,6 @@
+Who invented Python language?
+2
+Bill Gates
+Guido Van Rossum
+Albert Einstein
+Steve Jobs

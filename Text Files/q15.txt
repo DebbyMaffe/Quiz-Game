@@ -1,0 +1,6 @@
+A binary number has 5 digits. What is -3 in binary M&S?
+1
+10011
+00011
+10001
+10011

@@ -1,0 +1,6 @@
+What is HTTP?
+1
+A network protocol to transfer data between a server and clients
+A programming language to transfer data between a server and clients
+An operative system to transfer data between a server and clients
+None of the above

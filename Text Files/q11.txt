@@ -1,0 +1,6 @@
+A dictionary is a collection of information:
+4
+Not Ordered, Mutable and Indexed
+Not Ordered, Not Mutable and Inedxed
+Not Ordered, Not Mutable and Not Indexed
+Ordered, Mutable and Indexed

@@ -1,0 +1,6 @@
+An array is a collection of information:
+2
+Heterogeneous, Ordered and Indexed
+Homogeneous, Ordered and Inedxed
+Homogeneous, Not Ordered and Indexed
+Heterogeneous, Ordered and Not Indexed

@@ -1,0 +1,6 @@
+Common types of Networks:
+4
+PAN, LAN
+LAN, MAN
+MAN, WAN
+LAN, WAN

@@ -1,0 +1,6 @@
+Which of the following statements is wrong?
+2
+A variable is a way to store a value
+A primitive can be separated in other sub-operations
+A flow-chart is a graphical representation of the algorithm steps
+An algorithm is a set of well-defined instructions

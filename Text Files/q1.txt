@@ -1,0 +1,6 @@
+A programm is executed statement by statement, following three keys stages:
+4
+Load, Execute and Output
+Fetch, Execute and Decode
+Decode, Fetch and Execute
+Fetch, Decode and Execute

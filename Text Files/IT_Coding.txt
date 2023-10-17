@@ -1,0 +1,32 @@
+01. Computer Science Foundations
+  - Preliminaries: introduction to the course. How the exam works.
+  - The representation of information
+  - Binary maths. Binary conversion of N, Q and R (floating Point)
+  - Right and Left Shift. Overflow.
+  - The computer architecture: Von Neumann's machine. CPU, ALU. Primary memory and secondary memory. I/O devices
+  - Algorithms and primitive operations. For and while loops.
+  - From algorithms to programming.
+  - Stating the problem
+  - Stating the solution
+  - Elements of Boolean Algebra
+
+02. Introduction to R language
+  - Numbers and strings
+  - Vectors, lists, factors, matrices and dataframes
+  - Random numbers and syinthetic data
+  - Files. For and while loops. 
+  - Graphics: basic plot functions, lattice and ggplot2
+  - Shiny objects
+  - Data cleansing
+
+03. Introduction to Phyton
+  - Phyton and Markdown code
+  - Import a package: pip command
+  - Custom functions. Scope of the variables
+  - Notable algotrithms: sequential search, binary search, bubble sort
+  - Dictionaries
+  - Files handling functions
+  - Scientific libraries: NumPy and SciPy
+  - Graphical library: MatplotLib
+  - Recursive functions. Examples: Fibonacci sequence, the Factorial of a number
+  - Recursion representation within the memory stack (L.I.F.O policy).
