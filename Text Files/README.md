@@ -5,4 +5,4 @@ Each **File** contains:
 * the **number** of the *correct* answer on the second line
 * the **multiple** *choise* in the following rows.
 
-The *It_Coding.txt* file contains the main topics regarding the Computer Science foundations, accessible through a menu widget. 
+The *IT_Coding.txt* file contains the main topics regarding the Computer Science foundations, accessible through a menu widget. 
